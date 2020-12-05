@@ -1,0 +1,3 @@
+displayName = Better Slime
+author = GoldenGamerPL
+version = 0.1
